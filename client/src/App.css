@@ -1,0 +1,16 @@
+.Container_Logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Container_Logo img {
+  width: 20vw;
+}
+
+.Container_Logo h1 {
+  font-size: 50px;
+  color: yellow;
+  font-weight: bold;
+  text-shadow: -3px 3px black;
+}

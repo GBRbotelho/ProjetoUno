@@ -19,7 +19,7 @@ function App() {
         <Route path="/game" element={<Game />} />
       </Routes>
 
-      <h1>FOOTER</h1>
+      <h1>FOOTER teste</h1>
     </Router>
   );
 }
